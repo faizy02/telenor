@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prov_DataDumper", "Prov_DataDumper\Prov_DataDumper.csproj", "{ED55FD0E-CD27-442D-B1D6-A6283129FD7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED55FD0E-CD27-442D-B1D6-A6283129FD7C}.Debug|x64.ActiveCfg = Debug|x64
+		{ED55FD0E-CD27-442D-B1D6-A6283129FD7C}.Debug|x64.Build.0 = Debug|x64
+		{ED55FD0E-CD27-442D-B1D6-A6283129FD7C}.Debug|x86.ActiveCfg = Debug|x86
+		{ED55FD0E-CD27-442D-B1D6-A6283129FD7C}.Debug|x86.Build.0 = Debug|x86
+		{ED55FD0E-CD27-442D-B1D6-A6283129FD7C}.Release|x64.ActiveCfg = Release|x64
+		{ED55FD0E-CD27-442D-B1D6-A6283129FD7C}.Release|x64.Build.0 = Release|x64
+		{ED55FD0E-CD27-442D-B1D6-A6283129FD7C}.Release|x86.ActiveCfg = Release|x86
+		{ED55FD0E-CD27-442D-B1D6-A6283129FD7C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F34C321-19C3-4F3A-8D73-E8803EDFD4C0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+c:\users\faizan.sajjad\documents\visual studio 2010\Projects\TerminateIt\TerminateIt\bin\Debug\TerminateIt.exe
+c:\users\faizan.sajjad\documents\visual studio 2010\Projects\TerminateIt\TerminateIt\bin\Debug\TerminateIt.pdb
+c:\users\faizan.sajjad\documents\visual studio 2010\Projects\TerminateIt\TerminateIt\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\faizan.sajjad\documents\visual studio 2010\Projects\TerminateIt\TerminateIt\obj\x86\Debug\TerminateIt.Form1.resources
+c:\users\faizan.sajjad\documents\visual studio 2010\Projects\TerminateIt\TerminateIt\obj\x86\Debug\TerminateIt.Properties.Resources.resources
+c:\users\faizan.sajjad\documents\visual studio 2010\Projects\TerminateIt\TerminateIt\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\faizan.sajjad\documents\visual studio 2010\Projects\TerminateIt\TerminateIt\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\faizan.sajjad\documents\visual studio 2010\Projects\TerminateIt\TerminateIt\obj\x86\Debug\TerminateIt.exe
+c:\users\faizan.sajjad\documents\visual studio 2010\Projects\TerminateIt\TerminateIt\obj\x86\Debug\TerminateIt.pdb
+c:\users\faizan.sajjad\documents\visual studio 2010\Projects\TerminateIt\TerminateIt\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\faizan.sajjad\Documents\Visual Studio 2010\Projects\TerminateIt\TerminateIt\bin\Debug\FileHelpers.dll
+C:\Users\faizan.sajjad\Documents\Visual Studio 2010\Projects\TerminateIt\TerminateIt\bin\Debug\FileHelpers.xml

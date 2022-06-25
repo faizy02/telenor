@@ -1,0 +1,6 @@
+C:\Users\faizan.sajjad\Documents\Visual Studio 2010\Projects\APN Provisioning Tool\APN Provisioning Tool\obj\x86\Debug\APN_Provisioning_Tool.Form1.resources
+C:\Users\faizan.sajjad\Documents\Visual Studio 2010\Projects\APN Provisioning Tool\APN Provisioning Tool\obj\x86\Debug\APN_Provisioning_Tool.Properties.Resources.resources
+C:\Users\faizan.sajjad\Documents\Visual Studio 2010\Projects\APN Provisioning Tool\APN Provisioning Tool\obj\x86\Debug\APN Provisioning Tool.csproj.GenerateResource.cache
+C:\Users\faizan.sajjad\Documents\Visual Studio 2010\Projects\APN Provisioning Tool\APN Provisioning Tool\obj\x86\Debug\APN Provisioning Tool.csproj.CoreCompileInputs.cache
+C:\Users\faizan.sajjad\Documents\Visual Studio 2010\Projects\APN Provisioning Tool\APN Provisioning Tool\obj\x86\Debug\APN Provisioning Tool.exe
+C:\Users\faizan.sajjad\Documents\Visual Studio 2010\Projects\APN Provisioning Tool\APN Provisioning Tool\obj\x86\Debug\APN Provisioning Tool.pdb
